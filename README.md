@@ -17,3 +17,8 @@
     fis3 release -d ./output
     fis3 server start --root ./output
     ```
+4. 发布产品代码
+
+    ```
+    fis3 release production -d ./output
+    ```
